@@ -12,7 +12,7 @@ setup(
 	long_description_content_type="text/markdown",
 	install_requires=['matplotlib'],
 	url="https://github.com/ddempsey/nudibranch",
-	download_url='https://github.com/ddempsey/nudibranch/archive/v_01.tar.gz,
+	download_url='https://github.com/ddempsey/nudibranch/archive/v_01.tar.gz',
 	license='MIT',
 	classifiers=[
 		 "Programming Language :: Python :: 3",
