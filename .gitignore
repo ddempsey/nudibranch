@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.vscode/
+.ipynb_checkpoints/
+test.py
+*.png
+*.jpg
