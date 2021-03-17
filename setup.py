@@ -8,7 +8,6 @@ setup(
 	author="David Dempsey",
 	author_email="ddempsey786@gmail.com",
 	description="Unnecessary matplotlib colormaps inspired by sea slugs.",
-	long_description=long_description,
 	long_description_content_type="text/markdown",
 	install_requires=['matplotlib'],
 	url="https://github.com/ddempsey/nudibranch",
