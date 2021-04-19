@@ -13,7 +13,7 @@ pip install nudibranch
 ```bash
 from nudibranch import cm
 
-from nudibranch.colormaps import berghia
+from nudibranch.cm import berghia
 
 aurea_r = cm.get_cmap('aurea_r')
 

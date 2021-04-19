@@ -1,7 +1,9 @@
 __pycache__/
 *.py[cod]
 .vscode/
+dist/
 .ipynb_checkpoints/
 test.py
+MANIFEST
 *.png
 *.jpg
